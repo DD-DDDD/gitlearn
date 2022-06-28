@@ -1,4 +1,7 @@
 # author: xuwen
 
 # print hello
-print("hello world!")
+print("hello")
+
+# print world
+print("world")
